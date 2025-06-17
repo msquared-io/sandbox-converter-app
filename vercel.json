@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next",
+      "config": {
+        "buildCommand": "npm run build",
+        "outputDirectory": ".next"
+      }
+    }
+  ],
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "git": {
+    "submodules": true
+  }
+}

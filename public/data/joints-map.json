@@ -1,0 +1,20 @@
+{
+    "World-Global": "root",
+    "Controller-Global": "pelvis",
+    "Hip-Global": "pelvis",
+    "Belly-Global": "spine_01",
+    "Chest-Global": "spine_04",
+    "Head-Global": "head",
+    "Left_Arm-Global": "upperarm_r",
+    "Left_Forearm-Global": "lowerarm_r",
+    "Left_Hand-Global": "hand_r",
+    "Right_Arm-Global": "upperarm_l",
+    "Right_Forearm-Global": "lowerarm_l",
+    "Right_Hand-Global": "hand_l",
+    "Right_Thigh-Global": "thigh_l",
+    "Right_Leg-Global": "calf_l",
+    "Right_Foot-Global": "foot_l",
+    "Left_Thigh-Global": "thigh_r",
+    "Left_Leg-Global": "calf_r",
+    "Left_Foot-Global": "foot_r"
+}
